@@ -1,4 +1,4 @@
--- Position Viewer
+-- the gui wow
 local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 
